@@ -1,0 +1,17 @@
+.valid {
+  border-color: rgb(7, 129, 7);
+  background-color: rgba(7, 129, 7, 0.329);
+}
+
+.notValid {
+  border-color: #810b0b;
+  background-color: rgba(129, 11, 11, 0.322);
+}
+
+.valid:focus {
+  outline: none;
+}
+
+.notValid:focus {
+  outline: none;
+}
